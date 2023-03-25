@@ -1,0 +1,17 @@
+title: course students
+student:
+  ID: 989
+  firstName: Marta
+  lastName: Kosenko
+  age: 32
+  gender: female
+contactNumbers:
+  - type: Home
+    number: 044-123-456
+  - type: Office
+    number: 098-765-4321
+knowledge: [HTML, CSS]
+addInfo:
+  isNew: true
+  LanguageLearn: Java
+  studentOfCourse: QA Automation

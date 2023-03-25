@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <title>course students</title>
+  <student>
+    <ID>989</ID>
+    <firstName>Marta</firstName>
+    <lastName>Kosenko</lastName>
+    <age>32</age>
+    <gender>female</gender>
+  </student>
+  <contactNumbers>
+    <type>Home</type>
+    <number>044-123-456</number>
+  </contactNumbers>
+  <contactNumbers>
+    <type>Office</type>
+    <number>098-765-4321</number>
+  </contactNumbers>
+  <knowledge>HTML</knowledge>
+  <knowledge>CSS</knowledge>
+  <addInfo>
+    <isNew>true</isNew>
+    <LanguageLearn>Java</LanguageLearn>
+    <studentOfCourse>QA Automation</studentOfCourse>
+  </addInfo>
+</root>
+
